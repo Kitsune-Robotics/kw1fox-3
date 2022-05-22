@@ -9,8 +9,6 @@ on:
     paths:
       - "Hardware/**"
 
-  pull_request:
-
 jobs:
   KiCad_Hardware:
     runs-on: ubuntu-latest
